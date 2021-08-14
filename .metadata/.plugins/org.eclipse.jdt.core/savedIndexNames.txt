@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\alexander.Ftec\Google Drive\eclipse-workspace\03_eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2234313468.index
+472234822.index
+1991655398.index
+4115013235.index
+1797426128.index
